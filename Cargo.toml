@@ -1,0 +1,21 @@
+[package]
+name = "grace-flower-catalog-crawler"
+version = "0.1.0"
+authors = ["Haili Zhang <hailizhang@appannie.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+reqwest = {version="0.11", features=["json"]}
+tokio = {version="1", features=["full"]}
+url = {version="2.2.2", features=["serde"]}
+select = "0.5.0"
+bloom = "0.3.2"
+xpather = "0.2.0"
+serde_json = "1.0"
+serde = { versio = "1.0", features = ["derive"]}
+regex = "1.5.4"
+log = "0.4"
+env_logger = "0.9.0"
+rand = "0.8.4"

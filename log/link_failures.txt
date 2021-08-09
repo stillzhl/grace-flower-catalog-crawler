@@ -1,0 +1,17 @@
+http://www.gardening.cornell.edu/homegardening/scene0072.html,ParseFailure
+http://www.gardening.cornell.edu/homegardening/sceneaf95.html,ParseFailure
+http://www.gardening.cornell.edu/homegardening/scene84eb.html,ParseFailure
+http://www.gardening.cornell.edu/homegardening/scenee2d2.html,ParseFailure
+http://www.gardening.cornell.edu/homegardening/scene6f0c.html,ParseFailure
+http://www.gardening.cornell.edu/homegardening/scenecea9.html,ParseFailure
+http://www.gardening.cornell.edu/homegardening/scene42c9.html,ParseFailure
+http://www.gardening.cornell.edu/homegardening/scenecd01.html,ParseFailure
+http://www.gardening.cornell.edu/homegardening/scenef2e2.html,ParseFailure
+http://www.gardening.cornell.edu/homegardening/scene3cbc.html,ParseFailure
+http://www.gardening.cornell.edu/homegardening/scene1e07.html,ParseFailure
+http://www.gardening.cornell.edu/homegardening/sceneb088.html,ParseFailure
+http://www.gardening.cornell.edu/homegardening/scene006a.html,ParseFailure
+http://www.gardening.cornell.edu/homegardening/scenecfd7.html,ParseFailure
+http://www.gardening.cornell.edu/homegardening/scenedb99.html,ParseFailure
+http://www.gardening.cornell.edu/homegardening/scenea408.html,ParseFailure
+http://www.gardening.cornell.edu/homegardening/scenedbe3.html,ParseFailure
